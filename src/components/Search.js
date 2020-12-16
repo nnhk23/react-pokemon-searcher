@@ -4,8 +4,10 @@ const Search = props => {
   return (
     <div className="ui search">
       <div className="ui icon input">
-        <input className="prompt"/>
-        <i className="search icon" />
+        <form onSubmit={props.handleSubmit}>
+          <input className="prompt"/>
+          <i className="search icon" />
+        </form>
       </div>
     </div>
   )

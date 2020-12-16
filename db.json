@@ -1340,6 +1340,33 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Growlite",
+      "hp": "30",
+      "sprites": {
+        "front": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/58.png?raw=true",
+        "back": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/back/58.png?raw=true"
+      },
+      "id": 151
+    },
+    {
+      "name": "Jellicent",
+      "hp": "40",
+      "sprites": {
+        "front": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/593.png?raw=true",
+        "back": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/back/593.png?raw=true"
+      },
+      "id": 152
+    },
+    {
+      "name": "Slowking",
+      "hp": "50",
+      "sprites": {
+        "front": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/199.png?raw=true",
+        "back": "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/back/199.png?raw=true"
+      },
+      "id": 153
     }
   ]
 }
